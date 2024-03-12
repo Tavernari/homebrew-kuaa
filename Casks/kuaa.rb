@@ -1,6 +1,6 @@
 cask "kuaa" do
     version "0.0.1"
-    sha256 "86b1cc44cfa93341da90ae63dfc69950d75adbc113cfa795f0d621c970c35cf7"
+    sha256 "615774e63eff894ce0c24004d3a38b43f251b2cbcfb463a971b967fd5f221363"
   
     url "https://github.com/Tavernari/kuaa/archive/refs/tags/#{version}.tar.gz"
     name "Kuaa"
